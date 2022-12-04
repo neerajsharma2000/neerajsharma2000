@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neerajsharma2000
-- 👀 I’m interested in front end development,data science and data structures and algorithms
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in software development and problem solving
+- 🌱 I’m currently learning web development,video editing,blogging.
 - 💞️ I’m looking to collaborate on projects involving data science and web development
 - 📫 How to reach me -message me at https://www.linkedin.com/in/neeraj-sharma-6697111aa
 <!---
